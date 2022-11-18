@@ -13,14 +13,14 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/francivaldolima?style=social)
 
 <h2 align="center">Descrição do Projeto</h2>
-Neste projeto é criar um Blog de notícias.
+Neste projeto é criar um blog de notícias.
 
  <h4 align="center"> 
      :construction:  Projeto em construção :construction:
 </h4>
 
 ## :hammer:  Funcionalidades do projeto
-Quando clicar em uma notícia leva para outra página. Monstrando foto,título e descrição.
+Quando clicar em uma notícia leva para outra página. Monstrando foto, título e descrição.
 
 ![Blog](https://user-images.githubusercontent.com/54116971/202781953-663f753f-a97e-488a-8bbb-14d04a872472.gif)
 
