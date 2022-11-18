@@ -1,27 +1,43 @@
-# AngularBlog
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+<h1 align="center"> Projeto Blog do curso Cloud Fullstack Bootcamp da DIO </h1>
 
-## Development server
+![Blog](https://user-images.githubusercontent.com/54116971/202779980-2a583445-1806-4f64-b9b4-21ccdac8c81d.png)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
-## Code scaffolding
+[![GitHub issues](https://img.shields.io/github/issues/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/issues)
+[![GitHub forks](https://img.shields.io/github/forks/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/network)
+[![GitHub stars](https://img.shields.io/github/stars/francivaldolima/cloud-parking)](https://github.com/francivaldolima/cloud-parking/stargazers)
+![GitHub Org's stars](https://img.shields.io/github/stars/francivaldolima?style=social)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2 align="center">Descrição do Projeto</h2>
+Neste projeto é criar um Blog de notícias.
 
-## Build
+ <h4 align="center"> 
+     :construction:  Projeto em construção :construction:
+</h4>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## :hammer:  Funcionalidades do projeto
+Quando clicar em uma notícia leva para outra página. Monstrando foto,título e descrição.
 
-## Running unit tests
+![Blog](https://user-images.githubusercontent.com/54116971/202781953-663f753f-a97e-488a-8bbb-14d04a872472.gif)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ✔️ Técnicas e tecnologias utilizadas
+- ``JavaScript``
+- ``Visual Studio Code``
+- ``Lógica de programação``
+- ``CSS``
+- ``HTML``
+- ``Angular``
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Autor
+[<img src="https://avatars.githubusercontent.com/u/54116971?v=4" width=115><br><sub>Francivaldo Lima</sub>](https://github.com/francivaldolima)
+
+
+
+
