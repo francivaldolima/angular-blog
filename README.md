@@ -20,7 +20,7 @@ Neste projeto é criar um blog de notícias.
 </h4>
 
 ## :hammer:  Funcionalidades do projeto
-Quando clicar em uma notícia leva para outra página. Monstrando foto, título e descrição.
+Quando clicar em uma notícia leva para outra página. Mostrando foto, título e descrição.
 
 ![Blog](https://user-images.githubusercontent.com/54116971/202781953-663f753f-a97e-488a-8bbb-14d04a872472.gif)
 
